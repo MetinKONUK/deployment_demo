@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          METIN KONUK
+          METIN KONUK SİTESİ DEĞİŞTİ
         </a>
       </header>
     </div>
